@@ -1,10 +1,14 @@
 {
-.appVersion = "1356";
-copyright = "©2008-2021 Robert E. Leuschke";
+.appVersion = "1352";
+copyright = "Copyright 2008-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)";
 customParameters = (
 {
-name = trademark;
-value = "Please refer to the Copyright section for the font trademark attribution notices.";
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = panose;
@@ -22,28 +26,44 @@ value = (
 );
 },
 {
-name = unicodeRanges;
+name = "Disable Subroutines";
+value = 1;
+},
+{
+name = glyphOrder;
 value = (
-0
+.notdef,
+CR,
+NULL,
+space,
+nbspace
 );
 },
 {
 name = fsType;
 value = (
-2
 );
 },
 {
-name = blueScale;
-value = 0.02278;
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
 }
 );
-date = "2021-04-20 17:12:31 +0000";
+}
+);
+date = "2021-08-20 19:38:45 +0000";
 designer = "Robert E. Leuschke";
-designerURL = "http://www.typesetit.com";
+designerURL = www.typesetit.com;
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = Fleurdeleah;
+familyName = "Fleur De Leah";
 featurePrefixes = (
 {
 automatic = 1;
@@ -182,6 +202,106 @@ xHeight = 385;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+lastChange = "2021-04-20 17:37:48 +0000";
+layers = (
+{
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+paths = (
+{
+closed = 1;
+nodes = (
+"379 0 LINE",
+"379 650 LINE",
+"50 650 LINE",
+"50 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"212 287 LINE",
+"309 64 LINE",
+"115 64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 534 LINE",
+"193 330 LINE",
+"104 129 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"231 330 LINE",
+"321 537 LINE",
+"321 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 584 LINE",
+"305 584 LINE",
+"212 374 LINE"
+);
+}
+);
+width = 429;
+}
+);
+note = .notdef;
+},
+{
+glyphname = CR;
+lastChange = "2021-04-20 17:37:48 +0000";
+layers = (
+{
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+width = 220;
+}
+);
+note = CR;
+},
+{
+glyphname = NULL;
+lastChange = "2021-04-20 17:37:48 +0000";
+layers = (
+{
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+width = 0;
+}
+);
+note = NULL;
+},
+{
+glyphname = space;
+lastChange = "2021-04-20 17:37:48 +0000";
+layers = (
+{
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+width = 220;
+}
+);
+note = space;
+unicode = 0020;
+},
+{
+glyphname = nbspace;
+lastChange = "2021-04-20 17:37:48 +0000";
+layers = (
+{
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+width = 39;
+}
+);
+note = nbspace;
+unicode = 00A0;
+},
 {
 glyphname = A;
 lastChange = "2021-04-20 17:37:48 +0000";
@@ -41885,95 +42005,6 @@ width = 266;
 unicode = 27E9;
 },
 {
-glyphname = space;
-lastChange = "2021-04-20 17:37:48 +0000";
-layers = (
-{
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 220;
-}
-);
-note = space;
-unicode = 0020;
-},
-{
-glyphname = nbspace;
-lastChange = "2021-04-20 17:37:48 +0000";
-layers = (
-{
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 39;
-}
-);
-note = nbspace;
-unicode = 00A0;
-},
-{
-glyphname = CR;
-lastChange = "2021-04-20 17:37:48 +0000";
-layers = (
-{
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 220;
-}
-);
-note = CR;
-},
-{
-glyphname = .notdef;
-lastChange = "2021-04-20 17:37:48 +0000";
-layers = (
-{
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-paths = (
-{
-closed = 1;
-nodes = (
-"379 0 LINE",
-"379 650 LINE",
-"50 650 LINE",
-"50 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"212 287 LINE",
-"309 64 LINE",
-"115 64 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"104 534 LINE",
-"193 330 LINE",
-"104 129 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"231 330 LINE",
-"321 537 LINE",
-"321 127 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"119 584 LINE",
-"305 584 LINE",
-"212 374 LINE"
-);
-}
-);
-width = 429;
-}
-);
-note = .notdef;
-},
-{
 glyphname = Euro;
 lastChange = "2021-08-19 05:14:32 +0000";
 layers = (
@@ -52998,17 +53029,6 @@ width = 252;
 );
 },
 {
-glyphname = NULL;
-lastChange = "2021-04-20 17:37:48 +0000";
-layers = (
-{
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 0;
-}
-);
-note = NULL;
-},
-{
 glyphname = DC1;
 lastChange = "2021-04-20 17:37:48 +0000";
 layers = (
@@ -53608,8 +53628,9 @@ quotesingle = -29;
 };
 };
 };
-manufacturer = "TypeSETit, LLC";
+manufacturer = "Robert E. Leuschke";
+manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
