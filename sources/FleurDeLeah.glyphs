@@ -2,7 +2,8 @@
 .appVersion = "1352";
 DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"/imacron"
 );
 copyright = "Copyright 2008-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)";
 customParameters = (
@@ -122,15 +123,15 @@ alignmentZones = (
 "{-380, -10}"
 );
 ascender = 680;
-capHeight = 784;
+capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
-value = 838;
+value = 850;
 },
 {
 name = typoDescender;
-value = -489;
+value = -400;
 },
 {
 name = typoLineGap;
@@ -138,11 +139,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 838;
+value = 850;
 },
 {
 name = hheaDescender;
-value = -489;
+value = -400;
 },
 {
 name = hheaLineGap;
@@ -150,11 +151,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 838;
+value = 1017;
 },
 {
 name = winDescent;
-value = 489;
+value = 536;
 },
 {
 name = strikeoutPosition;
@@ -173,7 +174,7 @@ name = underlineThickness;
 value = 20;
 }
 );
-descender = -489;
+descender = -380;
 guideLines = (
 {
 locked = 1;
@@ -66369,17 +66370,13 @@ unicode = 020B;
 {
 color = 11;
 glyphname = imacron;
-lastChange = "2021-08-20 19:51:39 +0000";
+lastChange = "2021-08-20 20:36:36 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = idotless;
-},
-{
-name = macron;
-transform = "{1, 0, 0, 1, 114, -114}";
 }
 );
 };
@@ -66388,8 +66385,7 @@ components = (
 name = idotless;
 },
 {
-name = macron;
-transform = "{1, 0, 0, 1, 114, -114}";
+name = macroncomb;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
