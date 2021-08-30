@@ -1,7 +1,7 @@
 
-# Explora
+# Fleur De Leah
 
-Explora is  beautiful calligraphic complete with swash forms. It's light and delicate strokes contribute to its elegance. In addition, it features one of the few fonts that contains the entire Cherokee Nation language glyphs.
+Fleur De Leah is a formal script with a floral flavour. One of the first fonts to incorporate embellishment design elements within the letterforms. Use it sparingly for captions and short phrases and as with any script font, never use it in all caps. Enjoy!
 
 ![Sample Image](Documentation/image1.png)
 
