@@ -4,7 +4,7 @@ DisplayStrings = (
 "Fleur/space De/space Leah/space |/space Version:/space 1.004/space |/space 21Output/space date:/space 08|/space Page/space :1Fleu/space De/space LeahAlle/space Menschen/space werden/space frei/space und/space gleich/space in/space Wu/dieresiscomb rde/space und/space Rechten/space geboren.Sie/space sind/space mit/space Vernunft/space und/space Gewissen/space ausgestattet/space und/space sollten/space im/space Geiste/space derBru/dieresiscomb derlichkeit/space gegeneinander/space handeln/space weggelegd./space GermanV/scaron etci/space/lcaron udia/space sa/space rodia/space slobodní/space a/space rovní/space v/space dôstojnosti/space a/space právach./space Sú/space obdarenírozumom/space a/space svedomím/space a/space mali/space by/space kona/tcaron/space vo/ccaron i/space sebe/space v/space duchu/space bratstva./space Slovak/quotedblbase Kdy/zcaron/space si/space to/space shrneme,/space tak/space vy/acutecomb sledkem/space ro/ccaron ního/space boje/space s/space covidem/space je,/space/zcaron e/space místo/space jedny/acutecomb rou/scaron ky/space máme/space nosit/space dv/ecaron ./quotedblleft/space CzchecAlle/space mennesker/space er/space født/space frie/space og/space likeverdige/space og/space verdige./space De/space er/space utstyrt/space medfornuft/space og/space samvittighet/space og/space bør/space handle/space mot/space hverandre/space i/space en/space brorskapsånd.NorwayTots/space els/space éssers/space humans/space neixen/space lliures/space i/space iguals/space en/space dignitat/space i/space drets./space Estandotats/space de/space raó/space i/space consciència/space i/space han/space/dcaron actuar/space els/space uns/space amb/space els/space altres/space amb/space esperitde/space germanor./space CatalanWszyscy/space ludzie/space rodz/aogonek/space si/eogonek/space wolni/space i/space równi/space pod/space wzgl/eogonek dem/space godno/sacute ci/space i/space praw./space S/aogonek obdarzeni/space rozumem/space i/space sumieniem/space i/space powinni/space post/eogonek powa/cacute/space wobec/space siebie/space w/space duchubraterstwa./space Polishavion/space award/space ¡tomato/space fear!/space ovoide/space tamesis/space ¿vamos?/space ócreo/space/tcaron/zacute/quotedblleft Another/space type/quotedblright/space «Another/space Type»1234567890%\012email@mywebsite.com",
 "oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohungarumlaut/oinvertedbreve/omacron/oogonek õ/otildemacron",
 "ÔÓ/Obreve/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Õ/Otildemacron",
-"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute Ã",
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove n/circumflexcomb.case/circumflexcomb_tildecomb.case/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute Ã",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120123456927589/nbspace \012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo",
 "rrarbrcrdrerfrgrhrir/idotless rjrkrlrmr\012rnrorprqrrrsrtruraoarorvrwrxryrzr",
 "r/schwa r"
@@ -141,11 +141,11 @@ capHeight = 620;
 customParameters = (
 {
 name = typoAscender;
-value = 900;
+value = 920;
 },
 {
 name = typoDescender;
-value = -430;
+value = -450;
 },
 {
 name = typoLineGap;
@@ -153,11 +153,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 900;
+value = 920;
 },
 {
 name = hheaDescender;
-value = -430;
+value = -450;
 },
 {
 name = hheaLineGap;
@@ -66275,7 +66275,7 @@ rightMetricsKey = zero;
 },
 {
 glyphname = one.lf;
-lastChange = "2021-08-30 21:49:47 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66291,7 +66291,7 @@ name = one;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 418;
+width = 408;
 }
 );
 leftKerningGroup = "1";
@@ -66301,7 +66301,7 @@ rightMetricsKey = one;
 },
 {
 glyphname = two.lf;
-lastChange = "2021-08-30 21:49:57 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66317,7 +66317,7 @@ name = two;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 593;
+width = 602;
 }
 );
 leftKerningGroup = "2";
@@ -66327,7 +66327,7 @@ rightMetricsKey = two;
 },
 {
 glyphname = three.lf;
-lastChange = "2021-08-30 21:50:08 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66343,7 +66343,7 @@ name = three;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 554;
+width = 558;
 }
 );
 leftKerningGroup = "3";
@@ -66353,7 +66353,7 @@ rightMetricsKey = three;
 },
 {
 glyphname = four.lf;
-lastChange = "2021-08-30 21:50:19 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66369,7 +66369,7 @@ name = four;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 517;
+width = 514;
 }
 );
 leftKerningGroup = "4";
@@ -66379,7 +66379,7 @@ rightMetricsKey = four;
 },
 {
 glyphname = five.lf;
-lastChange = "2021-08-30 21:50:29 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66395,7 +66395,7 @@ name = five;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 535;
+width = 553;
 }
 );
 leftKerningGroup = "5";
@@ -66405,7 +66405,7 @@ rightMetricsKey = five;
 },
 {
 glyphname = six.lf;
-lastChange = "2021-08-30 21:50:40 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66421,7 +66421,7 @@ name = six;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 591;
+width = 588;
 }
 );
 leftKerningGroup = "6";
@@ -66431,7 +66431,7 @@ rightMetricsKey = six;
 },
 {
 glyphname = seven.lf;
-lastChange = "2021-08-30 21:50:51 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66447,7 +66447,7 @@ name = seven;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 515;
+width = 575;
 }
 );
 leftKerningGroup = "7";
@@ -66457,7 +66457,7 @@ rightMetricsKey = seven;
 },
 {
 glyphname = eight.lf;
-lastChange = "2021-08-30 21:51:01 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66473,7 +66473,7 @@ name = eight;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 390;
+width = 400;
 }
 );
 leftKerningGroup = "8";
@@ -66483,7 +66483,7 @@ rightMetricsKey = eight;
 },
 {
 glyphname = nine.lf;
-lastChange = "2021-08-30 21:51:11 +0000";
+lastChange = "2021-08-30 22:23:39 +0000";
 layers = (
 {
 background = {
@@ -66499,7 +66499,7 @@ name = nine;
 }
 );
 layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-width = 530;
+width = 541;
 }
 );
 leftKerningGroup = "9";
@@ -88551,7 +88551,7 @@ width = 111;
 {
 color = 6;
 glyphname = circumflexcomb.case;
-lastChange = "2021-08-26 10:53:15 +0000";
+lastChange = "2021-08-30 22:20:24 +0000";
 layers = (
 {
 anchors = (
@@ -88601,11 +88601,7 @@ nodes = (
 "3 514 OFFCURVE",
 "10 515 CURVE SMOOTH"
 );
-}
-);
-};
-layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
-paths = (
+},
 {
 closed = 1;
 nodes = (
@@ -88636,6 +88632,43 @@ nodes = (
 "153 401 OFFCURVE",
 "228 371 OFFCURVE",
 "238 371 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "2072D606-CE9C-4455-8FDE-AAFE9455DC77";
+paths = (
+{
+closed = 1;
+nodes = (
+"239 368 OFFCURVE",
+"241 369 OFFCURVE",
+"242 371 CURVE SMOOTH",
+"243 374 OFFCURVE",
+"205 412 OFFCURVE",
+"193 424 CURVE SMOOTH",
+"175 442 OFFCURVE",
+"158 461 OFFCURVE",
+"152 463 CURVE SMOOTH",
+"148 464 OFFCURVE",
+"146 464 OFFCURVE",
+"141 463 CURVE SMOOTH",
+"132 461 OFFCURVE",
+"101 444 OFFCURVE",
+"71 428 CURVE SMOOTH",
+"45 414 OFFCURVE",
+"-21 383 OFFCURVE",
+"-23 380 CURVE SMOOTH",
+"-24 378 OFFCURVE",
+"-18 374 OFFCURVE",
+"-11 375 CURVE SMOOTH",
+"9 378 OFFCURVE",
+"105 408 OFFCURVE",
+"146 428 CURVE",
+"123 431 LINE",
+"148 409 OFFCURVE",
+"224 368 OFFCURVE",
+"234 368 CURVE SMOOTH"
 );
 }
 );
@@ -90470,5 +90503,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
